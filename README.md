@@ -3,10 +3,10 @@
 🚀 **Live Demo:** [Click here](https://nj79s5.csb.app/)  
 
 ## 📢 Important Notice  
-Due to technical issues, the e-commerce website, initially intended for **GitHub Pages**, has been **deployed on Vercel** instead.  
+Due to technical issues, the e-commerce website, initially intended for **GitHub Pages**, has been **deployed on CodeSandbox** instead.  
 
 ## 🛍️ Project Description  
-A user-friendly **e-commerce site** built with **React, TypeScript, and Supabase**, deployed on **Vercel**.  
+A user-friendly **e-commerce site** built with **React, TypeScript, and Supabase**, deployed on **CodeSandbox**.  
 
 ### ✨ Features  
 - **Dynamic Product Listings** – Fetches real-time data from **Supabase**.  
